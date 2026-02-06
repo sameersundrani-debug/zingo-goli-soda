@@ -1,7 +1,9 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
-import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
+<div className="bg-white p-6 rounded-xl shadow">
+  ...
+</div>
 
 export default function ZingoWebsite() {
   const products = [
